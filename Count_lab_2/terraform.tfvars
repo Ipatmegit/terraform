@@ -1,0 +1,1 @@
+ec2_name = [ "myPatVm1", "myPatVm2", "myPatVm3" ]

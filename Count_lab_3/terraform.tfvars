@@ -1,0 +1,1 @@
+ec2_name = [ "ForEachPatVm1", "ForEachPatVm2", "ForEachPatVm3" ]
